@@ -1,2 +1,10 @@
 teste do git 
 segunda linha 
+mais uma ateracao 
+hahahha 
+hahahaha/n ahhaahhaa 
+hahahah\n ahhaahhaa 
+-e oi teste\n viado
+-e "oi teste\n viado" 
+oi M Gay 
+oi \r\n Gay 

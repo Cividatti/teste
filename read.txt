@@ -8,3 +8,4 @@ hahahah\n ahhaahhaa
 -e "oi teste\n viado" 
 oi M Gay 
 oi \r\n Gay 
+mais uma vez o teste mt loco 
